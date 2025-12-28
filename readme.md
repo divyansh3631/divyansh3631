@@ -10,7 +10,7 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/divyansh-sharma-8b1321136/" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -19,7 +19,7 @@
       width="40"
     />
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+  <a href="https://www.instagram.com/thedivyanshsharma9/" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -28,7 +28,7 @@
       width="40"
     />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
+  <a href="https://x.com/divyanshistic" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
